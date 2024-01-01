@@ -2,6 +2,8 @@
 
 ## App chạy trên localhost, port 3000
 
+## Xem file .env để custom các biến khi run app 
+
 ## Kiến trúc:
 Middleware - Controller - Service - Repository
 Middleware chiều đi sẽ gọi thư viện cors, chiều về sẽ trả về các lỗi đến client.
@@ -48,8 +50,8 @@ a. Middleware validate:
 + Xử lý các route không tồn tại
 + Xử lý các lỗi HTTP
 + Xử lý Xác thực người dùng
-+ Xử lý phân quyền. Định nghĩa rule cho từng loại account
-+ Validate các request
++ Xử lý phân quyền. 
+
 b. Lỗi hệ thống:
 + Lắng nghe lỗi từ các promise chưa được handle lỗi
 + Lắng nghe lỗi đối với case có hoặc không có đoạn mã: throw new Error(...)
@@ -94,6 +96,4 @@ CREATE TABLE IF NOT EXISTS table_test2 (
   created_at TIMESTAMP NOT NULL default CURRENT_TIMESTAMP,
   updated_at TIMESTAMP NOT NULL default CURRENT_TIMESTAMP
 );
-
-## Xem file .env để custom các biến khi run app 
         
