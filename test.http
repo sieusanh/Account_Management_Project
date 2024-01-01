@@ -1,0 +1,59 @@
+# http://localhost:3000
+@host = {{backend_url}}
+
+### CREATE EMPLOYEE
+POST {{host}}/v1/accounts
+content-type: application/json
+
+{
+    "name": "Good Developer",
+    "phone": "1231123123",
+    "role": "EMPLOYEE",
+    "username": "Developer2",
+    "password": "Abc123@dawd"
+}
+
+### CREATE ADMIN
+POST {{host}}/v1/accounts
+content-type: application/json
+
+{
+    "name": "Good Admin",
+    "phone": "1231123123",
+    "role": "ADMIN",
+    "username": "Administrator2",
+    "password": "Abc123@dawd"
+}
+
+### LOGIN
+POST {{host}}/v1/accounts/login
+content-type: application/json
+
+{
+    "username": "Administrator2",
+    "password": "Abc123@dawd"
+}
+
+### GET ALL | ADMIN
+# v1/accounts?role=EMPLOYEE&sort_by=_id&order_by=asc&limit=10&offset=1
+GET {{host}}/v1/accounts?role=EMPLOYEE&sort_by=_id&order_by=asc&limit=10&offset=1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTAsIm5hbWUiOiJHb29kIEFkbWluIiwidXNlcm5hbWUiOiJBZG1pbmlzdHJhdG9yMiIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTcwNDA4Njk4MywiZXhwIjoxNzA0MDk0MTgzfQ.jpaHDwd0ZyMvFgZ_keP3j2s4Qdz9w4S5k3E_atXH2rs
+
+### GET BY ID
+GET {{host}}/v1/accounts/3
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTAsIm5hbWUiOiJHb29kIEFkbWluIiwidXNlcm5hbWUiOiJBZG1pbmlzdHJhdG9yMiIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTcwNDA4Njk4MywiZXhwIjoxNzA0MDk0MTgzfQ.jpaHDwd0ZyMvFgZ_keP3j2s4Qdz9w4S5k3E_atXH2rs
+
+
+### UPDATE BY ID
+PATCH {{host}}/v1/accounts/3
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTAsIm5hbWUiOiJHb29kIEFkbWluIiwidXNlcm5hbWUiOiJBZG1pbmlzdHJhdG9yMiIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTcwNDA4Njk4MywiZXhwIjoxNzA0MDk0MTgzfQ.jpaHDwd0ZyMvFgZ_keP3j2s4Qdz9w4S5k3E_atXH2rs
+content-type: application/json
+
+{
+    "name": "Bad Developer"
+}
+
+### DELETE BY ID
+DELETE {{host}}/v1/accounts/3
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTAsIm5hbWUiOiJHb29kIEFkbWluIiwidXNlcm5hbWUiOiJBZG1pbmlzdHJhdG9yMiIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTcwNDA4Njk4MywiZXhwIjoxNzA0MDk0MTgzfQ.jpaHDwd0ZyMvFgZ_keP3j2s4Qdz9w4S5k3E_atXH2rs
+

@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "target": "es6",
+        "moduleResolution": "node",
+        "outDir": "build",
+        "lib": [
+            "es6",
+            "dom"
+        ],
+        "types": [
+            "jest",
+            "node",
+        ],
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "skipLibCheck": true,
+        "allowSyntheticDefaultImports": true
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
