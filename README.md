@@ -15,6 +15,7 @@ Repository giao tiếp với layer Service, tương tác database để thao tá
 + Áp dụng versioning, resource name, plurals
 GET /v1/accounts/1
 POST /v1/accounts
+
 {
 &nbsp;&nbsp;&nbsp;&nbsp;"name": "Created Admin",
 &nbsp;&nbsp;&nbsp;&nbsp;"phone": "1231123123",
