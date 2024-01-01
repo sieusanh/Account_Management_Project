@@ -22,6 +22,7 @@ POST /v1/accounts
 &nbsp;&nbsp;&nbsp;&nbsp;"username": "Administrator1",
 &nbsp;&nbsp;&nbsp;&nbsp;"password": "Abc123@dawd"
 }
+
 + Áp dụng filtering, sorting, pagination
 GET /v1/accounts?role=EMPLOYEE&sort_by=_id&order_by=asc&limit=10&offset=1
 + Áp dụng CORS policy: 
