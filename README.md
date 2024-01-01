@@ -4,6 +4,8 @@
 
 ## Xem file .env để custom các biến khi run app 
 
+## Xem file test.http để thực hiện vài test case. VS Code Extention: REST Client
+
 ## Kiến trúc:
 Middleware - Controller - Service - Repository
 Middleware chiều đi sẽ gọi thư viện cors, chiều về sẽ trả về các lỗi đến client.
