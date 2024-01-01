@@ -1,0 +1,312 @@
+2024-01-01T02:55:46.628Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T02:55:46.632Z [Application] info: App environment: production
+2024-01-01T02:55:46.632Z [Application] info: App is running on port 3000
+2024-01-01T02:55:51.088Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T02:55:51.091Z [Application] info: App environment: production
+2024-01-01T02:55:51.092Z [Application] info: App is running on port 3000
+2024-01-01T02:57:15.568Z [accounts.controller] info: getById
+2024-01-01T02:57:15.568Z [accounts.controller] error: getAll TypeError: Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T02:57:15.570Z [LogError] error: GET /v1/accounts/1: Unhandled request error unknown user. Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T02:57:39.016Z [accounts.controller] info: getAll
+2024-01-01T02:57:39.016Z [accounts.service] info: getAll
+2024-01-01T02:57:40.015Z [accounts.controller] info: getAll
+2024-01-01T02:57:40.016Z [accounts.service] info: getAll
+2024-01-01T02:57:42.392Z [accounts.controller] info: getById
+2024-01-01T02:57:42.393Z [accounts.controller] error: getAll TypeError: Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T02:57:42.395Z [LogError] error: GET /v1/accounts/1: Unhandled request error unknown user. Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T02:57:42.986Z [accounts.controller] info: getById
+2024-01-01T02:57:42.987Z [accounts.controller] error: getAll TypeError: Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T02:57:42.988Z [LogError] error: GET /v1/accounts/1: Unhandled request error unknown user. Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T02:57:43.679Z [accounts.controller] info: getById
+2024-01-01T02:57:43.679Z [accounts.controller] error: getAll TypeError: Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T02:57:43.681Z [LogError] error: GET /v1/accounts/1: Unhandled request error unknown user. Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T02:58:48.808Z [accounts.controller] info: login
+2024-01-01T02:58:48.809Z [accounts.service] info: login
+2024-01-01T02:59:34.840Z [accounts.controller] info: getById
+2024-01-01T02:59:34.841Z [accounts.controller] error: getAll TypeError: Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T02:59:34.842Z [LogError] error: GET /v1/accounts/1: Unhandled request error unknown user. Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T02:59:38.213Z [accounts.controller] info: getById
+2024-01-01T02:59:38.214Z [accounts.controller] error: getAll TypeError: Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T02:59:38.215Z [LogError] error: GET /v1/accounts/1: Unhandled request error unknown user. Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T03:00:02.745Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T03:00:02.750Z [Application] info: App environment: production
+2024-01-01T03:00:02.751Z [Application] info: App is running on port 3000
+2024-01-01T03:00:16.690Z [accounts.controller] info: getById
+2024-01-01T03:00:16.690Z [accounts.controller] error: getAll TypeError: Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T03:00:16.693Z [LogError] error: GET /v1/accounts/1: Unhandled request error unknown user. Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T03:00:17.562Z [accounts.controller] info: getById
+2024-01-01T03:00:17.563Z [accounts.controller] error: getAll TypeError: Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T03:00:17.564Z [LogError] error: GET /v1/accounts/1: Unhandled request error unknown user. Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T03:00:17.961Z [accounts.controller] info: getById
+2024-01-01T03:00:17.961Z [accounts.controller] error: getAll TypeError: Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T03:00:17.963Z [LogError] error: GET /v1/accounts/1: Unhandled request error unknown user. Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T03:00:18.151Z [accounts.controller] info: getById
+2024-01-01T03:00:18.152Z [accounts.controller] error: getAll TypeError: Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T03:00:18.153Z [LogError] error: GET /v1/accounts/1: Unhandled request error unknown user. Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T03:00:18.351Z [accounts.controller] info: getById
+2024-01-01T03:00:18.352Z [accounts.controller] error: getAll TypeError: Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T03:00:18.353Z [LogError] error: GET /v1/accounts/1: Unhandled request error unknown user. Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T03:00:18.740Z [accounts.controller] info: getById
+2024-01-01T03:00:18.741Z [accounts.controller] error: getAll TypeError: Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T03:00:18.742Z [LogError] error: GET /v1/accounts/1: Unhandled request error unknown user. Cannot destructure property 'role' of 'req.info' as it is undefined.
+2024-01-01T03:01:12.785Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T03:01:12.788Z [Application] info: App environment: production
+2024-01-01T03:01:12.788Z [Application] info: App is running on port 3000
+2024-01-01T03:01:19.150Z [accounts.controller] info: getById
+2024-01-01T03:01:19.150Z [accounts.service] info: getById
+2024-01-01T03:02:03.728Z [accounts.controller] info: getAll
+2024-01-01T03:02:03.729Z [accounts.service] info: getAll
+2024-01-01T03:02:16.993Z [accounts.controller] info: login
+2024-01-01T03:02:16.993Z [accounts.service] info: login
+2024-01-01T03:02:29.344Z [accounts.controller] info: getAll
+2024-01-01T03:02:29.344Z [accounts.service] info: getAll
+2024-01-01T03:03:20.506Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T03:03:20.508Z [Application] info: App environment: production
+2024-01-01T03:03:20.508Z [Application] info: App is running on port 3000
+2024-01-01T03:03:46.469Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T03:03:46.472Z [Application] info: App environment: production
+2024-01-01T03:03:46.472Z [Application] info: App is running on port 3000
+2024-01-01T03:04:36.898Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T03:04:36.900Z [Application] info: App environment: production
+2024-01-01T03:04:36.900Z [Application] info: App is running on port 3000
+2024-01-01T03:12:00.581Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T03:12:00.584Z [Application] info: App environment: production
+2024-01-01T03:12:00.584Z [Application] info: App is running on port 3000
+2024-01-01T03:12:35.578Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T03:12:35.581Z [Application] info: App environment: production
+2024-01-01T03:12:35.581Z [Application] info: App is running on port 3000
+2024-01-01T03:50:11.489Z [accounts.controller] info: login
+2024-01-01T03:50:11.490Z [accounts.service] info: login
+2024-01-01T03:50:26.430Z [accounts.controller] info: getById
+2024-01-01T03:50:26.430Z [accounts.service] info: getById
+2024-01-01T03:50:31.097Z [accounts.controller] info: getById
+2024-01-01T03:50:31.097Z [accounts.controller] error: getAll Error: You are not allowed
+2024-01-01T03:51:10.286Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T03:51:10.288Z [Application] info: App environment: production
+2024-01-01T03:51:10.288Z [Application] info: App is running on port 3000
+2024-01-01T03:52:26.658Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T03:52:26.660Z [Application] info: App environment: production
+2024-01-01T03:52:26.660Z [Application] info: App is running on port 3000
+2024-01-01T03:52:48.512Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T03:52:48.515Z [Application] info: App environment: production
+2024-01-01T03:52:48.515Z [Application] info: App is running on port 3000
+2024-01-01T03:53:21.884Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T03:53:21.887Z [Application] info: App environment: production
+2024-01-01T03:53:21.887Z [Application] info: App is running on port 3000
+2024-01-01T03:54:52.542Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T03:54:52.545Z [Application] info: App environment: production
+2024-01-01T03:54:52.545Z [Application] info: App is running on port 3000
+2024-01-01T03:58:02.226Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T03:58:02.229Z [Application] info: App environment: production
+2024-01-01T03:58:02.229Z [Application] info: App is running on port 3000
+2024-01-01T03:58:40.045Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T03:58:40.047Z [Application] info: App environment: production
+2024-01-01T03:58:40.047Z [Application] info: App is running on port 3000
+2024-01-01T03:59:20.251Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T03:59:20.253Z [Application] info: App environment: production
+2024-01-01T03:59:20.253Z [Application] info: App is running on port 3000
+2024-01-01T04:00:32.742Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:00:32.744Z [Application] info: App environment: production
+2024-01-01T04:00:32.744Z [Application] info: App is running on port 3000
+2024-01-01T04:00:48.233Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:00:48.236Z [Application] info: App environment: production
+2024-01-01T04:00:48.236Z [Application] info: App is running on port 3000
+2024-01-01T04:03:07.706Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:03:07.708Z [Application] info: App environment: production
+2024-01-01T04:03:07.709Z [Application] info: App is running on port 3000
+2024-01-01T04:03:32.430Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:03:32.432Z [Application] info: App environment: production
+2024-01-01T04:03:32.433Z [Application] info: App is running on port 3000
+2024-01-01T04:04:04.580Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:04:04.583Z [Application] info: App environment: production
+2024-01-01T04:04:04.583Z [Application] info: App is running on port 3000
+2024-01-01T04:04:19.329Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:04:19.331Z [Application] info: App environment: production
+2024-01-01T04:04:19.331Z [Application] info: App is running on port 3000
+2024-01-01T04:05:20.526Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:05:20.528Z [Application] info: App environment: production
+2024-01-01T04:05:20.528Z [Application] info: App is running on port 3000
+2024-01-01T04:05:56.889Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:05:56.892Z [Application] info: App environment: production
+2024-01-01T04:05:56.892Z [Application] info: App is running on port 3000
+2024-01-01T04:06:06.560Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:06:06.563Z [Application] info: App environment: production
+2024-01-01T04:06:06.563Z [Application] info: App is running on port 3000
+2024-01-01T04:06:22.147Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:06:22.149Z [Application] info: App environment: production
+2024-01-01T04:06:22.149Z [Application] info: App is running on port 3000
+2024-01-01T04:07:58.201Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:07:58.202Z [Application] info: App environment: production
+2024-01-01T04:07:58.202Z [Application] info: App is running on port 3000
+2024-01-01T04:11:01.195Z [accounts.controller] info: login
+2024-01-01T04:11:01.196Z [accounts.service] info: login
+2024-01-01T04:14:44.357Z [accounts.controller] info: updateById
+2024-01-01T04:14:44.357Z [accounts.service] info: updateById
+2024-01-01T04:14:44.536Z [accounts.controller] error: getAll error: syntax error at or near "{"
+2024-01-01T04:14:44.538Z [LogError] error: PATCH /v1/accounts/1: Unhandled request error unknown user. syntax error at or near "{"
+2024-01-01T04:15:05.029Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:15:05.032Z [Application] info: App environment: production
+2024-01-01T04:15:05.032Z [Application] info: App is running on port 3000
+2024-01-01T04:15:08.077Z [accounts.controller] info: updateById
+2024-01-01T04:15:08.078Z [accounts.service] info: updateById
+2024-01-01T04:15:08.159Z [accounts.controller] error: getAll error: syntax error at or near "{"
+2024-01-01T04:15:08.161Z [LogError] error: PATCH /v1/accounts/1: Unhandled request error unknown user. syntax error at or near "{"
+2024-01-01T04:15:17.355Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:15:17.358Z [Application] info: App environment: production
+2024-01-01T04:15:17.358Z [Application] info: App is running on port 3000
+2024-01-01T04:15:20.734Z [accounts.controller] info: updateById
+2024-01-01T04:15:20.734Z [accounts.service] info: updateById
+2024-01-01T04:15:20.851Z [accounts.controller] error: getAll error: syntax error at or near "WHERE"
+2024-01-01T04:15:20.854Z [LogError] error: PATCH /v1/accounts/1: Unhandled request error unknown user. syntax error at or near "WHERE"
+2024-01-01T04:15:43.047Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:15:43.049Z [Application] info: App environment: production
+2024-01-01T04:15:43.049Z [Application] info: App is running on port 3000
+2024-01-01T04:18:00.090Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:18:00.093Z [Application] info: App environment: production
+2024-01-01T04:18:00.093Z [Application] info: App is running on port 3000
+2024-01-01T04:18:04.448Z [accounts.controller] info: updateById
+2024-01-01T04:18:04.449Z [accounts.service] info: updateById
+2024-01-01T04:18:04.632Z [accounts.controller] error: getAll error: syntax error at or near "1"
+2024-01-01T04:18:04.634Z [LogError] error: PATCH /v1/accounts/1: Unhandled request error unknown user. syntax error at or near "1"
+2024-01-01T04:18:24.078Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:18:24.080Z [Application] info: App environment: production
+2024-01-01T04:18:24.080Z [Application] info: App is running on port 3000
+2024-01-01T04:18:30.993Z [accounts.controller] info: updateById
+2024-01-01T04:18:30.994Z [accounts.service] info: updateById
+2024-01-01T04:20:30.861Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:20:30.863Z [Application] info: App environment: production
+2024-01-01T04:20:30.863Z [Application] info: App is running on port 3000
+2024-01-01T04:22:12.905Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:22:12.908Z [Application] info: App environment: production
+2024-01-01T04:22:12.908Z [Application] info: App is running on port 3000
+2024-01-01T04:24:01.429Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:24:01.431Z [Application] info: App environment: production
+2024-01-01T04:24:01.431Z [Application] info: App is running on port 3000
+2024-01-01T04:24:38.320Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:24:38.322Z [Application] info: App environment: production
+2024-01-01T04:24:38.322Z [Application] info: App is running on port 3000
+2024-01-01T04:25:01.778Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:25:01.781Z [Application] info: App environment: production
+2024-01-01T04:25:01.784Z [Application] info: App is running on port 3000
+2024-01-01T04:25:05.043Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:25:05.045Z [Application] info: App environment: production
+2024-01-01T04:25:05.045Z [Application] info: App is running on port 3000
+2024-01-01T04:25:12.732Z [accounts.controller] info: login
+2024-01-01T04:25:12.732Z [accounts.service] info: login
+2024-01-01T04:25:31.430Z [accounts.controller] info: updateById
+2024-01-01T04:25:31.430Z [accounts.service] info: updateById
+2024-01-01T04:28:13.572Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:28:13.574Z [Application] info: App environment: production
+2024-01-01T04:28:13.574Z [Application] info: App is running on port 3000
+2024-01-01T04:28:21.675Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:28:21.677Z [Application] info: App environment: production
+2024-01-01T04:28:21.677Z [Application] info: App is running on port 3000
+2024-01-01T04:28:28.631Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:28:28.633Z [Application] info: App environment: production
+2024-01-01T04:28:28.633Z [Application] info: App is running on port 3000
+2024-01-01T04:28:33.381Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:28:33.383Z [Application] info: App environment: production
+2024-01-01T04:28:33.383Z [Application] info: App is running on port 3000
+2024-01-01T04:28:57.903Z [accounts.controller] info: getById
+2024-01-01T04:28:57.903Z [accounts.service] info: getById
+2024-01-01T04:29:40.798Z [accounts.controller] info: updateById
+2024-01-01T04:29:40.799Z [accounts.controller] error: getAll Error: You are not allowed
+2024-01-01T04:29:43.003Z [accounts.controller] info: getById
+2024-01-01T04:29:43.004Z [accounts.service] info: getById
+2024-01-01T04:29:45.658Z [accounts.controller] info: getById
+2024-01-01T04:29:45.659Z [accounts.controller] error: getAll Error: You are not allowed
+2024-01-01T04:30:29.992Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:30:29.995Z [Application] info: App environment: production
+2024-01-01T04:30:29.995Z [Application] info: App is running on port 3000
+2024-01-01T04:30:56.778Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:30:56.780Z [Application] info: App environment: production
+2024-01-01T04:30:56.780Z [Application] info: App is running on port 3000
+2024-01-01T04:31:04.342Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:31:04.344Z [Application] info: App environment: production
+2024-01-01T04:31:04.344Z [Application] info: App is running on port 3000
+2024-01-01T04:31:27.827Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:31:27.830Z [Application] info: App environment: production
+2024-01-01T04:31:27.830Z [Application] info: App is running on port 3000
+2024-01-01T04:31:58.854Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:31:58.856Z [Application] info: App environment: production
+2024-01-01T04:31:58.856Z [Application] info: App is running on port 3000
+2024-01-01T04:32:17.497Z [accounts.controller] info: getById
+2024-01-01T04:32:17.498Z [accounts.controller] error: getAll Error: You are not allowed
+2024-01-01T04:32:21.036Z [accounts.controller] info: getById
+2024-01-01T04:32:21.037Z [accounts.service] info: getById
+2024-01-01T04:32:44.914Z [accounts.controller] info: updateById
+2024-01-01T04:32:44.914Z [accounts.controller] error: getAll Error: You are not allowed
+2024-01-01T04:32:45.057Z [accounts.controller] info: updateById
+2024-01-01T04:32:45.058Z [accounts.controller] error: getAll Error: You are not allowed
+2024-01-01T04:32:54.068Z [accounts.controller] info: deleteById
+2024-01-01T04:32:54.068Z [accounts.controller] error: getAll Error: You are not allowed
+2024-01-01T04:32:57.494Z [accounts.controller] info: deleteById
+2024-01-01T04:32:57.494Z [accounts.service] info: deleteById
+2024-01-01T04:33:04.947Z [accounts.controller] info: login
+2024-01-01T04:33:04.947Z [accounts.service] info: login
+2024-01-01T04:33:04.949Z [accounts.controller] error: login Error: Incorrect Username
+2024-01-01T04:33:09.832Z [accounts.controller] info: deleteById
+2024-01-01T04:33:09.832Z [accounts.service] info: deleteById
+2024-01-01T04:33:14.996Z [accounts.controller] info: deleteById
+2024-01-01T04:33:14.996Z [accounts.service] info: deleteById
+2024-01-01T04:33:22.479Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:33:22.481Z [Application] info: App environment: production
+2024-01-01T04:33:22.481Z [Application] info: App is running on port 3000
+2024-01-01T04:33:25.115Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:33:25.118Z [Application] info: App environment: production
+2024-01-01T04:33:25.118Z [Application] info: App is running on port 3000
+2024-01-01T04:34:18.156Z [accounts.controller] info: login
+2024-01-01T04:34:18.157Z [accounts.service] info: login
+2024-01-01T04:34:47.138Z [accounts.controller] info: deleteById
+2024-01-01T04:34:47.138Z [accounts.service] info: deleteById
+2024-01-01T04:34:48.143Z [accounts.controller] info: deleteById
+2024-01-01T04:34:48.143Z [accounts.service] info: deleteById
+2024-01-01T04:34:48.642Z [accounts.controller] info: deleteById
+2024-01-01T04:34:48.642Z [accounts.service] info: deleteById
+2024-01-01T04:34:53.260Z [accounts.controller] info: deleteById
+2024-01-01T04:34:53.260Z [accounts.service] info: deleteById
+2024-01-01T04:39:25.967Z [accounts.controller] info: login
+2024-01-01T04:39:25.967Z [accounts.service] info: login
+2024-01-01T04:39:55.526Z [accounts.controller] info: getById
+2024-01-01T04:39:55.526Z [accounts.controller] error: getAll Error: You are not allowed
+2024-01-01T04:39:59.259Z [accounts.controller] info: getById
+2024-01-01T04:39:59.259Z [accounts.service] info: getById
+2024-01-01T04:40:06.211Z [accounts.controller] info: getById
+2024-01-01T04:40:06.211Z [accounts.controller] error: getAll Error: You are not allowed
+2024-01-01T04:40:09.332Z [accounts.controller] info: getById
+2024-01-01T04:40:09.332Z [accounts.controller] error: getAll Error: You are not allowed
+2024-01-01T04:41:07.595Z [accounts.controller] info: login
+2024-01-01T04:41:07.596Z [accounts.service] info: login
+2024-01-01T04:41:47.050Z [accounts.controller] info: getById
+2024-01-01T04:41:47.050Z [accounts.controller] error: getAll Error: You are not allowed
+2024-01-01T04:42:55.261Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:42:55.264Z [Application] info: App environment: production
+2024-01-01T04:42:55.264Z [Application] info: App is running on port 3000
+2024-01-01T04:42:58.245Z [accounts.controller] info: getById
+2024-01-01T04:42:58.248Z [accounts.controller] error: getAll Error: You are not allowed
+2024-01-01T04:46:00.682Z [accounts.controller] info: login
+2024-01-01T04:46:00.682Z [accounts.service] info: login
+2024-01-01T04:46:19.881Z [accounts.controller] info: getById
+2024-01-01T04:46:19.882Z [accounts.controller] error: getAll Error: You are not allowed
+2024-01-01T04:56:00.028Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:56:00.031Z [Application] info: App environment: production
+2024-01-01T04:56:00.031Z [Application] info: App is running on port 3000
+2024-01-01T04:56:03.199Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:56:03.202Z [Application] info: App environment: production
+2024-01-01T04:56:03.202Z [Application] info: App is running on port 3000
+2024-01-01T04:57:06.814Z [accounts.controller] info: login
+2024-01-01T04:57:06.814Z [accounts.service] info: login
+2024-01-01T04:57:19.715Z [accounts.controller] info: getById
+2024-01-01T04:57:19.719Z [accounts.controller] error: getAll Error: You are not allowed
+2024-01-01T04:59:44.783Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T04:59:44.785Z [Application] info: App environment: production
+2024-01-01T04:59:44.785Z [Application] info: App is running on port 3000
+2024-01-01T05:00:15.036Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T05:00:15.038Z [Application] info: App environment: production
+2024-01-01T05:00:15.038Z [Application] info: App is running on port 3000
+2024-01-01T05:00:17.048Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T05:00:17.051Z [Application] info: App environment: production
+2024-01-01T05:00:17.051Z [Application] info: App is running on port 3000
+2024-01-01T05:00:20.378Z [Application] info: Running Node.js version v20.10.0
+2024-01-01T05:00:20.381Z [Application] info: App environment: production
+2024-01-01T05:00:20.382Z [Application] info: App is running on port 3000
