@@ -5,6 +5,9 @@
   "scripts": {
     "test": "cross-env NODE_ENV=test jest --testTimeout=10000",
     "dev": "concurrently --kill-others \"tsc -w\" \"nodemon build/app\"",
+    "check": "tsc && node build/app",
+    "start_dev": "nodemon --config nodemon.json ",
+    "check_dev": "concurrently --kill-others \"tsc -w\" \"nodemon --config nodemon.json build/app\"",
     "start": "tsc && node build/app"
   },
   "keywords": [],
